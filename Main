@@ -1,0 +1,4 @@
+git checkout -b main
+git add .
+git commit -m "feat: estrutura inicial do projeto"
+git push -u origin main
